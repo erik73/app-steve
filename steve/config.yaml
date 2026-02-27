@@ -8,7 +8,7 @@ arch:
   - aarch64
   - amd64
 stage: experimental
-webui: http://[HOST]:[PORT:8180]
+webui: http://[HOST]:[PORT:8180]/steve
 init: false
 panel_icon: mdi:CarElectric
 map:
